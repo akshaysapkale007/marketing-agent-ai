@@ -18,9 +18,10 @@
 
 **Marketing is expensive. Doing it yourself is exhausting.**
 
-Most businesses face a brutal choice:
+Every business—whether you're a restaurant, law firm, gym, boutique, or SaaS startup—faces the same brutal choice:
 - 💸 **Hire an agency** — $3,000-10,000/month for basic social media management
-- ⏰ **Do it yourself** — Hours of work creating posts, writing copy, finding images
+- 📸 **Hire a photographer** — $300-500 per session for product photos
+- ⏰ **Do it yourself** — Hours of work creating posts, writing copy, editing images
 - 🤖 **Use ChatGPT** — Still requires YOU to prompt it, review outputs, create images separately, and piece everything together
 
 **Even with AI tools, someone still has to orchestrate the entire workflow.**
@@ -31,14 +32,17 @@ Most businesses face a brutal choice:
 
 **What if AI didn't just help you create content—but did the whole job autonomously?**
 
-This is a **Level 3 AI Agent**: it doesn't wait for instructions. Give it your website URL, and it:
+This is a **Level 3 AI Agent** that works for **any business type**. Give it your website URL, and it:
 
 1. **Crawls your website** — Analyzes up to 30 pages, downloads images, reads your content
 2. **Extracts your Brand DNA** — Colors, fonts, tone of voice, target audience, core messaging
 3. **Creates marketing strategy** — Decides what campaigns will resonate with your audience
 4. **Generates complete campaigns** — AI-created images, headlines, copy, hashtags—ready to post
+5. **Transforms your photos** — Turn any phone photo into professional product photography
 
 **⏱️ Total time: Under 2 minutes. Zero human input required.**
+
+**Works for:** Restaurants • Retail • Professional Services • Fitness • E-commerce • Real Estate • Healthcare • And more...
 
 ---
 
@@ -80,7 +84,9 @@ https://youtu.be/rL-SEokhLHU
 
 ## 📊 Real Results
 
-### Example: Shake Shack
+> **Note:** This example uses Shake Shack to demonstrate the system. The agent works identically for any business type—just paste your website URL.
+
+### Demo: Shake Shack
 
 **Input:** `shakeshack.com`  
 **Time:** 90 seconds  
@@ -93,10 +99,17 @@ https://youtu.be/rL-SEokhLHU
 </div>
 
 The agent autonomously crawled the website and extracted:
-- ✅ Brand colors, fonts, and visual identity
-- ✅ Core messaging: "Stand For Something Good"
-- ✅ Target audience and tone of voice
-- ✅ Origin story and brand values
+
+| Category | What's Extracted |
+|----------|------------------|
+| **🎨 Visual Identity** | Primary/secondary colors, fonts, logo analysis, imagery style |
+| **💬 Brand Voice** | Tone of voice, writing style, key phrases, personality traits |
+| **🎯 Core Messaging** | Taglines, value propositions, mission statements |
+| **👥 Target Audience** | Demographics, psychographics, customer personas |
+| **📖 Brand Story** | Origin story, company history, founding narrative |
+| **🌐 Digital Presence** | Social media platforms, website structure, content themes |
+| **💡 Business Insights** | Industry-specific details, menu items, services, pricing signals |
+| **🏆 Differentiators** | Unique selling points, competitive advantages |
 
 ---
 
@@ -114,25 +127,26 @@ The agent autonomously crawled the website and extracted:
 
 ---
 
-### Image Remix Studio: Before & After
+### 📸 AI Product Photography Studio
 
-Upload any photo + your logo → Get a professional social media post
+**Skip the $500/shoot professional photographer.** Upload any phone photo + your logo → Get studio-quality social media content.
 
 <div align="center">
 
-**Before**  
-<img src="assets/before_remix.jpg" alt="Before Image Remix" width="400"/>
-
-**After (AI-Enhanced)**  
-<img src="assets/after_remix.jpg" alt="After Image Remix" width="400"/>
+| Before (Phone Photo) | After (AI-Enhanced) |
+|:-------------------:|:-------------------:|
+| <img src="assets/before_remix.jpg" alt="Before" width="350"/> | <img src="assets/after_remix.jpg" alt="After" width="350"/> |
+| Kitchen background, poor lighting | Professional setting, perfect lighting |
 
 </div>
 
-**What the AI did:**
-- ✅ Enhanced lighting and composition
-- ✅ Added Shake Shack logo with smart positioning
-- ✅ Generated caption and hashtags
-- ✅ Optimized for Instagram/social media
+**What the AI does automatically:**
+- 🎨 **Transforms the background** — Removes kitchen clutter, adds professional setting
+- 💡 **Fixes lighting** — Natural, appetizing food photography lighting
+- 🏷️ **Smart logo placement** — Positions brand logo without obscuring the product
+- ✍️ **Generates captions** — Ready-to-post copy with relevant hashtags
+
+> **💰 Value:** Professional food photography costs $300-500 per session. This does it in seconds.
 
 ---
 
