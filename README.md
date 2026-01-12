@@ -143,9 +143,8 @@ flowchart LR
     style ACT fill:#10b981,color:#fff
 ```
 
-<div align="center">
-<img src="assets/architecture_diagram.png" alt="Agentic Architecture Diagram" width="800"/>
-</div>
+![agentic_architecture_diagram_1768240513359](https://github.com/user-attachments/assets/c9e8c4d3-19ce-487c-9ed2-abc9baa5f00a)
+
 
 ### Why This is Truly Agentic
 
