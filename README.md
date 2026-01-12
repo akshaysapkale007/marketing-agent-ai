@@ -78,6 +78,64 @@ https://youtu.be/rL-SEokhLHU
 
 ---
 
+## 📊 Real Results
+
+### Example: Shake Shack
+
+**Input:** `shakeshack.com`  
+**Time:** 90 seconds  
+**Output:** Complete brand analysis + 2 ready-to-post campaigns
+
+#### Step 1: Brand DNA Extracted
+
+<div align="center">
+<img src="assets/brand_dna.png" alt="Brand DNA Extraction" width="700"/>
+</div>
+
+The agent autonomously crawled the website and extracted:
+- ✅ Brand colors, fonts, and visual identity
+- ✅ Core messaging: "Stand For Something Good"
+- ✅ Target audience and tone of voice
+- ✅ Origin story and brand values
+
+---
+
+#### Step 2: Campaigns Generated
+
+<div align="center">
+<img src="assets/campaign_results.png" alt="Generated Campaigns" width="700"/>
+</div>
+
+**Two complete campaigns created automatically:**
+- ✅ AI-generated images using Imagen 4
+- ✅ Headlines and body copy
+- ✅ Platform-optimized captions
+- ✅ Relevant hashtags (#ShakeShack, #StandForSomethingGood)
+
+---
+
+### Image Remix Studio: Before & After
+
+Upload any photo + your logo → Get a professional social media post
+
+<div align="center">
+
+**Before**  
+<img src="assets/before_remix.jpg" alt="Before Image Remix" width="400"/>
+
+**After (AI-Enhanced)**  
+<img src="assets/after_remix.jpg" alt="After Image Remix" width="400"/>
+
+</div>
+
+**What the AI did:**
+- ✅ Enhanced lighting and composition
+- ✅ Added Shake Shack logo with smart positioning
+- ✅ Generated caption and hashtags
+- ✅ Optimized for Instagram/social media
+
+---
+
 ## ✨ Core Features
 
 ### 1. 🧬 Brand DNA Extraction
