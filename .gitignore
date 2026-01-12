@@ -4,4 +4,4 @@
 # Whitelist (Allow) only these specific files
 !README.md
 !.gitignore
-!.assets/
+!assets/

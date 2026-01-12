@@ -97,7 +97,7 @@ I built an **agentic AI system** that autonomously handles the entire marketing 
 
 ```mermaid
 flowchart LR
-    subgraph INPUT["� Input"]
+    subgraph INPUT["📥 Input"]
         URL["Website URL"]
     end
     
@@ -142,6 +142,10 @@ flowchart LR
     style PLAN fill:#f59e0b,color:#fff
     style ACT fill:#10b981,color:#fff
 ```
+
+<div align="center">
+<img src="assets/architecture_diagram.png" alt="Agentic Architecture Diagram" width="800"/>
+</div>
 
 ### Why This is Truly Agentic
 
